@@ -18,8 +18,7 @@ void setup() {
 }  
 
 void draw() {  
-  // 背景をフェード  
-  //background(0);
+
   //translate(width/2, height/2);
   fill(0, 31);  
   rect(0, 0, width, height);  
